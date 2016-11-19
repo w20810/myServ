@@ -1,3 +1,5 @@
+这是一个简单的http服务端程序
+
 编译:g++ MyServ.cpp -o MyServ -lunp
 运行:./MyServ
 
