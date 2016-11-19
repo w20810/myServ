@@ -1,0 +1,5 @@
+编译:g++ MyServ.cpp -o MyServ -lunp
+运行:./MyServ
+
+调试编译:g++ -g Myserv.cpp -o MyServ -lunp
+调试:gdb MyServ
